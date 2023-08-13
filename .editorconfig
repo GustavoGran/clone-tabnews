@@ -1,0 +1,15 @@
+# EditorConfig https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+
+[*] # applies to every single file extension
+# defines indent_size to be standard 2 spaces 
+indent_style = space
+indent_size = 2
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
