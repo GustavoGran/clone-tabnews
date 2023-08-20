@@ -1,6 +1,5 @@
-# clone-tabnews
-
-Implementação do tabnews para o curso.dev
+# resolvendocases
+tabnews aplicado ao contexto de resolução de cases técnicos de programação e consultoria.
 
 ## Instalando dependências
 
